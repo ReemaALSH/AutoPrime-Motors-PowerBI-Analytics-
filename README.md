@@ -1,5 +1,3 @@
-# AutoPrime-Motors-PowerBI-Analytics-
-An executive Power BI analytics dashboard featuring custom DAX, Star Schema modeling, and a custom JSON theme for automotive sales performance.
 # 🚗 AUTOPRIME Motors — Executive Sales & Operations Analytics
 
 An end-to-end Power BI analytics solution designed for an automotive sales network analyzing **45K+ customer records** and **$36B+ in revenue** across 6 regional branches.
@@ -8,8 +6,7 @@ An end-to-end Power BI analytics solution designed for an automotive sales netwo
 
 ## 📊 Executive Dashboard Preview
 
-*(ضع صورة اللوحة هنا بعد رفعها)*
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/Page1.png)
 
 ---
 
@@ -29,7 +26,7 @@ An end-to-end Power BI analytics solution designed for an automotive sales netwo
 ├── AutoPrime_Theme.json             # Custom Power BI Brand Theme
 ├── images/                          # High-resolution Dashboard Screenshots
 └── README.md                        # Project Documentation
-
+```
 Key Business Insights Delivered
 Branch Benchmarking: Identified regional performance gaps and top-performing sales teams.
 
