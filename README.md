@@ -6,7 +6,11 @@ An end-to-end Power BI analytics solution designed for an automotive sales netwo
 
 ## 📊 Executive Dashboard Preview
 
-![Dashboard Preview](images/Page1.png)
+
+
+https://github.com/user-attachments/assets/5cadb336-5532-4a34-9601-b8fe96eac502
+
+
 
 ---
 
